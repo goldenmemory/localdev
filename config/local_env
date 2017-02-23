@@ -1,0 +1,4 @@
+DB_HOST=db.local.env.chatops.in
+DB_NAME=goldenmemory
+DB_USER=root
+DB_PASSWORD=goldenmemory
