@@ -1,6 +1,12 @@
 # Golden Memory Local Dev Environment
 
-This is the guide of golden memory local developmemt environment build.
+Actually, we don't need the local dev env for both frontend and backend.
+
+Wechat frontend has a WYSIWYG IDE and the code will be hosted in wechat itself, not our sever.
+
+Our backend use java*&gradle, it takes care all the things including build the docker image, please refer to backend repo for details.
+
+This local dev will only initialize all other dependencies like database or file server.
 
 ## Prerequisite
 * [docker](https://docs.docker.com/engine/installation/mac/#/docker-toolbox)
